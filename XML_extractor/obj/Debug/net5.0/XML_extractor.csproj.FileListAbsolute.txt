@@ -1,0 +1,16 @@
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.exe
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.deps.json
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.runtimeconfig.json
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.runtimeconfig.dev.json
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.dll
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\ref\XML_extractor.dll
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\bin\Debug\net5.0\XML_extractor.pdb
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.csproj.AssemblyReference.cache
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.AssemblyInfoInputs.cache
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.AssemblyInfo.cs
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.csproj.CoreCompileInputs.cache
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.dll
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\ref\XML_extractor.dll
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.pdb
+C:\Users\fredrik.a.jacobsson\Desktop\XML_Picker\XML_extractor\obj\Debug\net5.0\XML_extractor.genruntimeconfig.cache

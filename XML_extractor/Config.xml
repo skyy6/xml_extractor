@@ -1,0 +1,8 @@
+﻿<config>
+  <settings>
+  <FileInputDirectory>C:\\Users\\fredrik.jacobsson\\Desktop\\STANDARDLOCALIZED\\localized.xml</FileInputDirectory>
+  <FileOutputDirectory>C:\\Users\\fredrik.jacobsson\\Desktop\\CUSTOMLOCALIZED\\localized.xml</FileOutputDirectory>  
+  <ParentName>language-element</ParentName>
+  <ChildName>translations/translation[contains(text(), 'Value')]</ChildName>
+  </settings>  
+</config>
